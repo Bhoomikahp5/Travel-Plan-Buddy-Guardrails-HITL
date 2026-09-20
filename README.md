@@ -6,6 +6,18 @@ Built as a hands-on exercise in LangGraph state machines, tool calling, and pers
 
 ---
 
+## Project Stages
+
+Built in three stages. Each finished stage is frozen on its own branch:
+
+- **[Part 1 — Basic Multi-Agent Workflow](../../tree/part-1-basic-workflow)** — sequential LangGraph pipeline, no MCP
+- **Part 2 — MCP Integration** *(in progress)*
+- **Part 3 — Supervisor, Guardrails & HITL** *(planned)*
+
+`main` always holds the latest stage.
+
+---
+
 ## What it does
 
 Given one free-text request, the app:
