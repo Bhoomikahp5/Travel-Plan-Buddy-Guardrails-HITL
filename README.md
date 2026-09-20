@@ -11,8 +11,8 @@ Built as a hands-on exercise in LangGraph state machines, tool calling, and pers
 Built in three stages. Each finished stage is frozen on its own branch:
 
 - **[Part 1 — Basic Multi-Agent Workflow](../../tree/part-1-basic-workflow)** — sequential LangGraph pipeline, no MCP
-- **Part 2 — MCP Integration** *(in progress)*
-- **Part 3 — Supervisor, Guardrails & HITL** *(planned)*
+- **[Part 2 — MCP Integration](../../tree/part-2-MCP)** — Tavily, AviationStack, and a custom weather MCP server
+- **Part 3 — Supervisor, Guardrails & HITL** *(in progress)*
 
 `main` always holds the latest stage.
 
